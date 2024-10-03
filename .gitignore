@@ -1,0 +1,46 @@
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+
+# Ignore environment variable files
+.env
+
+# Ignore compiled files
+*.so
+*.dll
+*.dylib
+
+# Ignore coverage reports
+.coverage
+htmlcov/
+*.cover
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+task-database/
+
+# Ignore all .DS_Store files
+.DS_Store
