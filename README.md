@@ -42,7 +42,7 @@ mage add "task description" day time
 ```
 Without path Install:
 Must be in src folder of project file to use.
-To use the Mage Task Manager, you can use the following commands:
+Format commands like this:
 
 ```bash
 python mage.py add "task description" day time
