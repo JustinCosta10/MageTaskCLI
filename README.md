@@ -40,7 +40,7 @@ If installed correctly into the path, terminal commands like this should work:
 ```bash
 mage add "task description" day time
 ```
-## Without path Install:
+Without path Install:
 To use the Mage Task Manager, you can use the following commands:
 
 ```bash
