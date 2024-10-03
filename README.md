@@ -41,6 +41,7 @@ If installed correctly into the path, terminal commands like this should work:
 mage add "task description" day time
 ```
 Without path Install:
+Must be in src folder of project file to use.
 To use the Mage Task Manager, you can use the following commands:
 
 ```bash
